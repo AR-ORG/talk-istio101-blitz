@@ -10,14 +10,19 @@
 
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
+
 # What is a service mesh
 
 * In this case, lots of proxying
 * Creates a 'smart platform' layer underneath apps
 
+
+!SLIDE[bg=_images/backgrounds/white_bg.png]
+
 # Service Mesh
 
 ![Guestbook](../_images/istio-architecture-ibm.png)
+
 
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
@@ -28,6 +33,7 @@
 * Network control policies
 * Native HTTP/2 and grpc support
 * Request retries
+* Envoy powered Ingress Gateway
 
 
 !SLIDE[bg=_images/backgrounds/white_bg.png]
