@@ -2,4 +2,4 @@
 
 .blockwhite Free IBM Cloud Account
 
-.blockteal https://ibm.biz/BdZ8ME
+.blockteal https://ibm.biz/istiomeetup
