@@ -2,8 +2,8 @@
 
 # Istio
 
-* 'service mesh'
-* Still in Beta
+* 'Service Mesh'
+* 1.0 as of July 31st
 * Founded by IBM, Google, and Lyft
 * Leverages Envoy from Lyft
 
@@ -14,6 +14,10 @@
 
 * In this case, lots of proxying
 * Creates a 'smart platform' layer underneath apps
+
+# Service Mesh
+
+![Guestbook](../_images/istio-architecture-ibm.png)
 
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
@@ -42,7 +46,7 @@
 
 # Service Mesh
 
-![Guestbook](../_images/istioarch.png)
+![Guestbook](../_images/istio-architecture-ibm.png)
 
 
 !SLIDE[bg=_images/backgrounds/white_bg.png] commandline incremental
