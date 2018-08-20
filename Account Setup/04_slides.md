@@ -30,7 +30,7 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl
 
 # Validate installation
 
-    $ which bx
+    $ which ibmcloud
     /home/nibz/local/bin/bx
     $ which kubectl
     /usr/bin/kubectl
