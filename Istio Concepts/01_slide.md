@@ -73,3 +73,12 @@
 # Service Mesh
 
 ![Guestbook](../_images/grafana-dash.png)
+
+
+!SLIDE[bg=_images/backgrounds/white_bg.png]
+
+# Installing Istio
+
+* Production: Ues Helm
+* Option: Straight Kube
+* Option: Helm template
