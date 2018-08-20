@@ -1,6 +1,6 @@
 !SLIDE[bg=_images/backgrounds/black_bg.png]
 # IBM Code Presentation
-.blockwhite Introduction to Kubernetes and Istio // LFNW
+.blockwhite Introduction to Kubernetes and Istio // NYC Code
 
 .blockteal Spencer Krum // IBM
 

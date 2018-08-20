@@ -5,6 +5,7 @@
 * Spencer Krum
 * @nibalizer
 * IBM
+* Minneapolis
 * Developer Advocate
 * Oregon Native
 * Ops background
@@ -14,5 +15,5 @@
 
 # Who Else is Here
 
-* Rizchel Dayao - Developer Advocate, IBM
-* Cullen Taylor - Developer Advocate, IBM
+* Sean Dague - Developer Advocate, IBM
+* NYC Code Team, IBM

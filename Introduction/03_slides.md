@@ -4,7 +4,6 @@
 
 * Account Setup
 * Kubernetes Concepts
-* Kubernetes Hands On
 * Istio Concepts
 * Istio Hands On
 * Wrap up
