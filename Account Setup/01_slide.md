@@ -7,5 +7,5 @@
 * Add promotional code
 * Navigate to Containers
 * Create Kubernetes Cluster
-* Install `bx` and `kubectl` utilities
+* Install `ibmcloud` and `kubectl` utilities
 
